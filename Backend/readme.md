@@ -7,10 +7,10 @@
 </h2>
 
 
-🇺🇸 API made for Ecollect, using Knex to communicate with the SQLite3 database, the API allows to register collection points and certain items for collection.
+🇺🇸 API made for Ecollect, using Knex to communicate with the SQLite3 database, the API allows to register collection points and certain items for collection
 
 
-🇧🇷 API feita para o Ecollect, usando o Knex para comunicação com o banco de dados SQLite3, a API permite cadastrar pontos de coletas e determinados items para a coleta.
+🇧🇷 API feita para o Ecollect, usando o Knex para comunicação com o banco de dados SQLite3, a API permite cadastrar pontos de coletas e determinados items para a coleta
 
 
 
