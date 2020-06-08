@@ -4,11 +4,11 @@
    🌐 Ecollect Mobile
 </h3>
 
-🇺🇸 Ecollect's app, made in ReactNative, the app makes it possible to mark on the map what we want to recycle, and then show on the map any establishment that receives the collection, the map used was react-maps, and the Api used is [here](https://github.com/kawaxzx/Ecollect/tree/master/Backend).
+🇺🇸 Ecollect's app, made in ReactNative, the app makes it possible to mark on the map what we want to recycle, and then show on the map any establishment that receives the collection, the map used was react-maps, and the Api used is [here](https://github.com/kawaxzx/Ecollect/tree/master/Backend)
 
 
 
-🇧🇷 App do Ecoleta, feito em ReactNative, o app posibilita marcarmos no mapa o que desejamos reciclar, e entao mostra no mapa alguma estabelecimento que receba a coleta, o mapa usado foi do react-maps, e a Api Utilizada esta [aqui](https://github.com/kawaxzx/Ecollect/tree/master/Backend).
+🇧🇷 App do Ecoleta, feito em ReactNative, o app posibilita marcarmos no mapa o que desejamos reciclar, e entao mostra no mapa alguma estabelecimento que receba a coleta, o mapa usado foi do react-maps, e a Api Utilizada esta [aqui](https://github.com/kawaxzx/Ecollect/tree/master/Backend)
 
 
 <h2 align="center">🏠 Home Page 💻</h2>
