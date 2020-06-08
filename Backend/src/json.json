@@ -1,0 +1,14 @@
+{
+    "name": "walmart", 
+    "email": "walmart@gmail.com",
+    "whatsapp": "+1 201-758-2810",
+    "latitude": -46.98432,
+    "longitude": -35.4753645,
+    "city": "New York City",
+    "uf": "NY",
+    "items": [
+        2,
+				4,
+				6	
+    ]
+}
