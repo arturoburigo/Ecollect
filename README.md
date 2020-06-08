@@ -6,7 +6,9 @@
 <h3 align="center">
   Help make the future cleaner 🚮✅ :) by: Ecollect ♻️
 </h3>
-<a href="https://imgur.com/GctYcGx"><img src="https://i.imgur.com/GctYcGx.png" title="source: imgur.com" /></a>
+<div align="center">
+   <a href="https://imgur.com/GctYcGx"><img src="https://i.imgur.com/GctYcGx.png" title="source: imgur.com" /></a>
+</div>
 
 
 🇺🇸 Ecollect is a full stack application developed in Typescript, it was made in celebration of the World Environment Day, it allows to register waste collection points through the Web, using ReactJs, and allows on Mobile using React Native, to view the points of collection according to their respective items, each folder has another Readme inside it, giving more details about the Back end, Front end, Mobile, the Back end was developed in NodeJS, using SQLite3 as a database, and Knex to make your proper connection  
